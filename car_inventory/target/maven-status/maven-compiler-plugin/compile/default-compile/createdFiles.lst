@@ -1,0 +1,4 @@
+com\example\car_inventory\CarInventoryApplication.class
+com\example\car_inventory\controller\Car.class
+com\example\car_inventory\controller\CarInventoryResource.class
+com\example\car_inventory\controller\CarInventoryService.class
